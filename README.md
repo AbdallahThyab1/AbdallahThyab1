@@ -9,27 +9,32 @@
 </p>
 
 ### 👨‍💻 About Me
-- 💻 Software Developer passionate about **Frontend & Backend**  
-- 🚀 Exploring **Cloud & DevOps** technologies  
-- 🎯 Goal: Build products that make a difference  
-- 🌱 Lifelong learner & Open-Source contributor  
+- 💻 **Software Developer :** | C++ | Memory Management | OOP | Data Structures & Algorithms (DSA)
+- 🧩 **Passionate about Problem Solving & Algorithms**
+- 🌐 **Networking :** CCNA with Practical Experience
+- 🎯 **Goal :** Build efficient, real-world projects
+- 🌱 **Always striving to learn new things and apply them in real projects**
 
 ---
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://facebook.com/AbdallahThyab1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/AbdallahThyab1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/AbdallahThyab1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@AbdallahThyab1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/abdallah-thyab-355b75388/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/Abdullah.Jalal.Dyab.1/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+  <a href="mailto:1abdallahthyab@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/970598786853">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/AbdallahThyab">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-0055FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 </p>
 
 ---
