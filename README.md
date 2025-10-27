@@ -19,7 +19,7 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdallah-thyab-355b75388/">
+  <a href="https://www.linkedin.com/in/abdallah-thyab/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/Abdullah.Jalal.Dyab.1/">
