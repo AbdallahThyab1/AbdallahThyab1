@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/github/stars/AbdallahThyab1?style=for-the-badge&color=9333EA&labelColor=0d1117&logo=star" alt="stars"/>
 </p>
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdallahThyab1&style=flat-square&color=9333EA" alt="views"/>
-</p>
-
 <!-- ABOUT ME -->
 <p align="center">
   <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="25%" alt="profile">
