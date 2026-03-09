@@ -10,17 +10,19 @@
   <img src="https://img.shields.io/github/stars/AbdallahThyab1?style=for-the-badge&color=9333EA&labelColor=0d1117&logo=star" alt="stars"/>
 </p>
 
-<!-- ABOUT ME -->
-<p align="center">
-  <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="25%" alt="profile">
-</p>
-
-### 👨‍💻 About Me
-- 💻 **Software Developer :** C++ | Memory Management | OOP | Data Structures & Algorithms
-- 🧩 **Passionate about Problem Solving & Algorithms**
-- 🌐 **Networking :** CCNA with Practical Experience
-- 🎯 **Goal :** Build efficient, real-world projects
-- 🌱 **Always learning and applying new things**
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="23%" alt="profile">
+  
+  <h3>👨‍💻 About Me</h3>
+  <p align="left">
+    • 💻 <strong>Software Developer:</strong> C++ | Memory Management | OOP | Data Structures & Algorithms<br>
+    • 🧩 <strong>Passionate about</strong> Problem Solving & Algorithms<br>
+    • 🌐 <strong>Networking:</strong> CCNA with Practical Experience<br>
+    • 🎯 <strong>Goal:</strong> Build efficient, real-world projects<br>
+    • 🌱 <strong>Always learning</strong> and applying new things
+  </p>
+</div>
 
 <br clear="right"/>
 
