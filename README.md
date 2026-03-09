@@ -67,21 +67,40 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
-<p align="center">
+### 🎓 Tawjihi Platform
+Educational platform for Tawjihi students providing structured lessons, resources, and exam preparation tools.
 
-<a href="https://github.com/AbdallahThyab1/plms-store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=plms-store&theme=tokyonight&border_radius=10"/>
-</a>
+🔗 **Repository:**  
+https://github.com/AbdallahThyab1/tawjihi-platform
 
-<a href="https://github.com/AbdallahThyab1/tawjihi-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=tawjihi-platform&theme=tokyonight&border_radius=10"/>
-</a>
+🌐 **Live Demo:**  
+https://abdallahthyab1.github.io/tawjihi-platform/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=laslesvpn-landing-page&theme=tokyonight)](https://github.com/AbdallahThyab1/laslesvpn-landing-page)
 
-</p>
+---
+
+### 🛒 PLMS Store
+A modern e-commerce platform with product management, shopping cart functionality, and a clean UI.
+
+🔗 **Repository:**  
+https://github.com/AbdallahThyab1/plms-store
+
+🌐 **Live Demo:**  
+https://plms-ps.netlify.app/
+
+
+---
+
+### 🔐 LaslesVPN Landing Page
+Responsive landing page for a VPN service built with modern UI design principles.
+
+🔗 **Repository:**  
+https://github.com/AbdallahThyab1/laslesvpn-landing-page
+
+🌐 **Live Demo:**  
+https://abdallahthyab1.github.io/laslesvpn-landing-page/
 
 ---
 
