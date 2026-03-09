@@ -90,7 +90,7 @@
         </p>
       </td>
       <td width="40%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=tawjihi-platform&theme=tokyonight&hide_border=true&border_radius=10" width="100%"/>
+[![Tawjihi Platform](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdallahThyab1&repo=tawjihi-platform&theme=tokyonight)](https://github.com/AbdallahThyab1/tawjihi-platform)
       </td>
     </tr>
   </table>
