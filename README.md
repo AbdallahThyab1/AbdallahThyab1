@@ -145,9 +145,7 @@
           </a>
         </p>
       </td>
-      <td width="40%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=laslesvpn-landing-page&theme=tokyonight&hide_border=true&border_radius=10" width="100%"/>
-      </td>
+[![LaslesVPN stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahThyab1&repo=laslesvpn-landing-page&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AbdallahThyab1/laslesvpn-landing-page)
     </tr>
   </table>
 </p>
