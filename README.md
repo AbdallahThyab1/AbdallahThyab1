@@ -69,40 +69,142 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 Tawjihi Platform
-Educational platform for Tawjihi students providing structured lessons, resources, and exam preparation tools.
+<p align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="33%" align="center">
+        <br>
+        <!-- Tawjihi Platform Card -->
+        <div style="background: linear-gradient(145deg, #0d1117 0%, #1a1f2e 100%); border-radius: 25px; padding: 25px 15px; margin: 15px; border: 2px solid #4F46E5; box-shadow: 0 10px 30px -10px #4F46E5;">
+          
+          <!-- Icon with glow effect -->
+          <div style="background: #4F46E5; width: 70px; height: 70px; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 30px #4F46E5;">
+            <span style="font-size: 35px;">🎓</span>
+          </div>
+          
+          <!-- Title -->
+          <h3 style="color: #FFFFFF; margin: 10px 0; font-size: 24px; font-weight: bold;">Tawjihi Platform</h3>
+          
+          <!-- Description -->
+          <p style="color: #B0B8D9; padding: 0 15px; font-size: 15px; line-height: 1.6; margin: 15px 0;">
+            📚 منصة تعليمية متكاملة لطلاب التوجيهي <br>دروس منظمة، موارد تعليمية، وأدوات تحضير للامتحانات
+          </p>
+          
+          <!-- Tech Badges -->
+          <p style="margin: 20px 0;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117"/>
+          </p>
+          
+          <!-- Action Buttons with hover effect -->
+          <p style="margin: 25px 0 10px;">
+            <a href="https://github.com/AbdallahThyab1/tawjihi-platform">
+              <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+            </a>
+            <a href="https://abdallahthyab1.github.io/tawjihi-platform/">
+              <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
+            </a>
+          </p>
+          
+          <!-- Status Badge -->
+          <p style="margin: 15px 0 0;">
+            <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&color=4F46E5"/>
+            <img src="https://img.shields.io/badge/Updated-2024-9333EA?style=flat-square"/>
+          </p>
+        </div>
+      </td>
+      
+      <td width="33%" align="center">
+        <br>
+        <!-- PLMS Store Card -->
+        <div style="background: linear-gradient(145deg, #0d1117 0%, #1a1f2e 100%); border-radius: 25px; padding: 25px 15px; margin: 15px; border: 2px solid #9333EA; box-shadow: 0 10px 30px -10px #9333EA;">
+          
+          <div style="background: #9333EA; width: 70px; height: 70px; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 30px #9333EA;">
+            <span style="font-size: 35px;">🛒</span>
+          </div>
+          
+          <h3 style="color: #FFFFFF; margin: 10px 0; font-size: 24px; font-weight: bold;">PLMS Store</h3>
+          
+          <p style="color: #B0B8D9; padding: 0 15px; font-size: 15px; line-height: 1.6; margin: 15px 0;">
+            🛍️ منصة تجارة إلكترونية عصرية <br>إدارة المنتجات، سلة تسوق، وواجهة مستخدم نظيفة
+          </p>
+          
+          <p style="margin: 20px 0;">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117"/>
+            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117"/>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d1117"/>
+          </p>
+          
+          <p style="margin: 25px 0 10px;">
+            <a href="https://github.com/AbdallahThyab1/plms-store">
+              <img src="https://img.shields.io/badge/📁%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+            </a>
+            <a href="https://plms-ps.netlify.app/">
+              <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
+            </a>
+          </p>
+          
+          <p style="margin: 15px 0 0;">
+            <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&color=9333EA"/>
+            <img src="https://img.shields.io/badge/Updated-2024-4F46E5?style=flat-square"/>
+          </p>
+        </div>
+      </td>
+      
+      <td width="33%" align="center">
+        <br>
+        <!-- LaslesVPN Card -->
+        <div style="background: linear-gradient(145deg, #0d1117 0%, #1a1f2e 100%); border-radius: 25px; padding: 25px 15px; margin: 15px; border: 2px solid #4F46E5; box-shadow: 0 10px 30px -10px #4F46E5;">
+          
+          <div style="background: #4F46E5; width: 70px; height: 70px; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 30px #4F46E5;">
+            <span style="font-size: 35px;">🔐</span>
+          </div>
+          
+          <h3 style="color: #FFFFFF; margin: 10px 0; font-size: 24px; font-weight: bold;">LaslesVPN</h3>
+          
+          <p style="color: #B0B8D9; padding: 0 15px; font-size: 15px; line-height: 1.6; margin: 15px 0;">
+            🌐 صفحة هبوط لخدمة VPN <br>تصميم عصري ومتجاوب مع جميع الأجهزة
+          </p>
+          
+          <p style="margin: 20px 0;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117"/>
+            <img src="https://img.shields.io/badge/Responsive-100%25-4F46E5?style=for-the-badge&labelColor=0d1117"/>
+          </p>
+          
+          <p style="margin: 25px 0 10px;">
+            <a href="https://github.com/AbdallahThyab1/laslesvpn-landing-page">
+              <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+            </a>
+            <a href="https://abdallahthyab1.github.io/laslesvpn-landing-page/">
+              <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
+            </a>
+          </p>
+          
+          <p style="margin: 15px 0 0;">
+            <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&color=4F46E5"/>
+            <img src="https://img.shields.io/badge/Updated-2024-9333EA?style=flat-square"/>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</p>
 
-🔗 **Repository:**  
-https://github.com/AbdallahThyab1/tawjihi-platform
+<!-- Quick Stats Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📊%20Total%20Projects-3-4F46E5?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-Add%20Yours-9333EA?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/👥%20Contributors-Welcome-4F46E5?style=for-the-badge&labelColor=0d1117"/>
+</p>
 
-🌐 **Live Demo:**  
-https://abdallahthyab1.github.io/tawjihi-platform/
-
-
----
-
-### 🛒 PLMS Store
-A modern e-commerce platform with product management, shopping cart functionality, and a clean UI.
-
-🔗 **Repository:**  
-https://github.com/AbdallahThyab1/plms-store
-
-🌐 **Live Demo:**  
-https://plms-ps.netlify.app/
-
-
----
-
-### 🔐 LaslesVPN Landing Page
-Responsive landing page for a VPN service built with modern UI design principles.
-
-🔗 **Repository:**  
-https://github.com/AbdallahThyab1/laslesvpn-landing-page
-
-🌐 **Live Demo:**  
-https://abdallahthyab1.github.io/laslesvpn-landing-page/
-
----
+<!-- Visit Card -->
+<p align="center">
+  <a href="https://github.com/AbdallahThyab1?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20View%20All%20Projects-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&size=50"/>
+  </a>
+</p>
 
 ## 📫 Connect with Me
 
