@@ -19,7 +19,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p align="left">
-• 🎓 <strong>Computer Engineering Student</strong> at <b>AAUP (Arab American University)</b>, passionate about software development and understanding how systems work behind the scenes.<br><br>
+• 🎓 <strong>Computer Engineering Student</strong> at <b>AAUP (Arab American University).<br><br>
 • 💻 <strong>Programming:</strong> Experience in <b>C++</b> and <b>Java</b>, including object-oriented programming (OOP), memory management, and writing clean, structured code. Familiar with basic GUI development using <b>Java Swing</b>.<br><br>
 • 🧠 <strong>Problem Solving:</strong> Strong interest in <b>Data Structures & Algorithms</b> and improving logical thinking through solving algorithmic challenges.<br><br>
 • 🌐 <strong>Web Development:</strong> Building responsive web interfaces using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>, with basic UI design and layout planning using <b>Canva</b>.<br><br>
