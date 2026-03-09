@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Hi%20I'm%20Abdallah%20👋&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
 
+<!-- TYPING ANIMATION -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=35&center=true&vCenter=true&width=600&lines=Software+Developer;C%2B%2B+Programmer;Problem+Solver;Computer+Engineering+Student" />
+</p>
+
 <!-- ABOUT ME -->
 
 <p align="center">
@@ -50,6 +56,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbdallahThyab1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -73,7 +87,15 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahThyab1&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahThyab1&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -87,4 +109,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=100&section=footer"/>
 </p>
+
 
