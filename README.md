@@ -12,7 +12,7 @@
 
 <!-- ABOUT ME SECTION -->
 ---
-<div align="rigth">
+<div align="right">
 
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="23%" alt="profile">
 
@@ -24,7 +24,7 @@
 • 🧠 <strong>Problem Solving:</strong> Strong interest in <b>Data Structures & Algorithms</b> and improving logical thinking through solving algorithmic challenges.<br><br>
 • 🌐 <strong>Web Development:</strong> Building responsive web interfaces using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>, with basic UI design and layout planning using <b>Canva</b>.<br><br>
 • 🗄️ <strong>Databases:</strong> Experience with <b>MySQL</b>, <b>SQL</b>, and <b>Relational Databases</b>, including database design, schema modeling, normalization, and writing efficient queries.<br><br>
-• 🌐 <strong>Networking:</strong> Understanding of networking fundamentals and <b>CCNA-level concepts</b> with practical knowledge of network architecture.<br><br>
+• 🌐 <strong>Networking:</strong> Understanding of networking fundamentals with hands-on practice using <b>Windows Server 2016</b> and <b>Cisco Packet Tracer</b>, including basic network configuration, services setup, and network simulation.<br><br>
 • 🚀 <strong>Goal:</strong> To grow as a software developer by building efficient real-world projects and continuously improving my technical skills.
 </p>
 
@@ -45,7 +45,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,git,github,vscode,figma,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,git,github,vscode,figma,windows&perline=10" />
 </p>
 
 ---
