@@ -11,17 +11,23 @@
 </p>
 
 <!-- ABOUT ME SECTION -->
+
 <div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="23%" alt="profile">
-  
-  <h3>👨‍💻 About Me</h3>
-  <p align="left">
-    • 💻 <strong>Software Developer:</strong> C++ | Memory Management | OOP | Data Structures & Algorithms<br>
-    • 🧩 <strong>Passionate about</strong> Problem Solving & Algorithms<br>
-    • 🌐 <strong>Networking:</strong> CCNA with Practical Experience<br>
-    • 🎯 <strong>Goal:</strong> Build efficient, real-world projects<br>
-    • 🌱 <strong>Always learning</strong> and applying new things
-  </p>
+
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="23%" alt="profile">
+
+<h2>👨‍💻 About Me</h2>
+
+<p align="left">
+• 🎓 <strong>Computer Engineering Student</strong> at <b>AAUP (Arab American University)</b>, passionate about software development and understanding how systems work behind the scenes.<br><br>
+• 💻 <strong>Programming:</strong> Experience in <b>C++</b> and <b>Java</b>, including object-oriented programming (OOP), memory management, and writing clean, structured code. Familiar with basic GUI development using <b>Java Swing</b>.<br><br>
+• 🧠 <strong>Problem Solving:</strong> Strong interest in <b>Data Structures & Algorithms</b> and improving logical thinking through solving algorithmic challenges.<br><br>
+• 🌐 <strong>Web Development:</strong> Building responsive web interfaces using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>, with basic UI design and layout planning using <b>Canva</b>.<br><br>
+• 🗄️ <strong>Databases:</strong> Experience with <b>MySQL</b>, <b>SQL</b>, and <b>Relational Databases</b>, including database design, schema modeling, normalization, and writing efficient queries.<br><br>
+• 🌐 <strong>Networking:</strong> Understanding of networking fundamentals and <b>CCNA-level concepts</b> with practical knowledge of network architecture.<br><br>
+• 🚀 <strong>Goal:</strong> To grow as a software developer by building efficient real-world projects and continuously improving my technical skills.
+</p>
+
 </div>
 
 <br clear="right"/>
