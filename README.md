@@ -32,10 +32,6 @@
 ## 📊 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahThyab1&layout=pie&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&size_weight=0.5&count_weight=0.5" width="60%"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdallahThyab1&theme=tokyonight" width="45%"/>
 </p>
 
@@ -44,7 +40,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,git,github,vscode,figma,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,git,github,vscode,figma,&perline=6" />
 </p>
 
 ---
@@ -52,8 +48,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahThyab1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahThyab1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdallahThyab1&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
@@ -69,86 +64,100 @@
 ## 🚀 Featured Projects
 
 <!-- Project 1 - Tawjihi Platform -->
-<p align="center">
-  <table width="90%" align="center" style="border: none;">
-    <tr>
-      <td width="60%" style="border: none;">
-        <h3>📚 Tawjihi Platform</h3>
-        <p><em>Educational platform for Tawjihi students with structured lessons and resources</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        </p>
-        <p>
-          <a href="https://github.com/AbdallahThyab1/tawjihi-platform">
-            <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-          </a>
-          <a href="https://abdallahthyab1.github.io/tawjihi-platform/">
-            <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
-          </a>
-        </p>
-      </td>
-      <td width="40%" align="center" style="border: none;">
-[![Tawjihi Platform](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdallahThyab1&repo=tawjihi-platform&theme=tokyonight)](https://github.com/AbdallahThyab1/tawjihi-platform)
-      </td>
-    </tr>
-  </table>
+
+<table width="90%" align="center">
+<tr>
+<td align="left">
+
+<h3>📚 Tawjihi Platform</h3>
+
+<p>
+<em>Educational platform for Tawjihi students with structured lessons and resources.</em>
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+<a href="https://github.com/AbdallahThyab1/tawjihi-platform">
+<img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://abdallahthyab1.github.io/tawjihi-platform/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <!-- Project 2 - PLMS Store -->
-<p align="center">
-  <table width="90%" align="center" style="border: none;">
-    <tr>
-      <td width="40%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=plms-store&theme=tokyonight&hide_border=true&border_radius=10" width="100%"/>
-      </td>
-      <td width="60%" style="border: none;">
-        <h3>🛒 PLMS Store</h3>
-        <p><em>Modern e-commerce platform with product management and shopping cart</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        </p>
-        <p>
-          <a href="https://github.com/AbdallahThyab1/plms-store">
-            <img src="https://img.shields.io/badge/📁%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-          </a>
-          <a href="https://plms-ps.netlify.app/">
-            <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<table width="90%" align="center">
+<tr>
+<td align="left">
+
+<h3>🛒 PLMS Store</h3>
+
+<p>
+<em>Modern e-commerce platform with product management and shopping cart.</em>
 </p>
 
-<!-- Project 3 - LaslesVPN -->
-<p align="center">
-  <table width="90%" align="center" style="border: none;">
-    <tr>
-      <td width="60%" style="border: none;">
-        <h3>🔐 LaslesVPN</h3>
-        <p><em>Responsive landing page for VPN service with modern UI design</em></p>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
-        </p>
-        <p>
-          <a href="https://github.com/AbdallahThyab1/laslesvpn-landing-page">
-            <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-          </a>
-          <a href="https://abdallahthyab1.github.io/laslesvpn-landing-page/">
-            <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
-          </a>
-        </p>
-      </td>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=laslesvpn-landing-page&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/AbdallahThyab1/laslesvpn-landing-page)
-    </tr>
-  </table>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
 </p>
+
+<p>
+<a href="https://github.com/AbdallahThyab1/plms-store">
+<img src="https://img.shields.io/badge/📁%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://plms-ps.netlify.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- Project 3 - LaslesVPN -->
+
+<table width="90%" align="center">
+<tr>
+<td align="left">
+
+<h3>🔐 LaslesVPN</h3>
+
+<p>
+<em>Responsive landing page for VPN service with modern UI design.</em>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
+</p>
+
+<p>
+<a href="https://github.com/AbdallahThyab1/laslesvpn-landing-page">
+<img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://abdallahthyab1.github.io/laslesvpn-landing-page/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <!-- View All Button -->
 <p align="center">
