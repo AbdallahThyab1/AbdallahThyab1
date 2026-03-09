@@ -79,9 +79,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=tawjihi-platform&theme=tokyonight&border_radius=10"/>
 </a>
 
-<a href="https://github.com/AbdallahThyab1/laslesvpn-landing-page">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=laslesvpn-landing-page&theme=tokyonight&border_radius=10"/>
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdallahThyab1&repo=laslesvpn-landing-page&theme=tokyonight)](https://github.com/AbdallahThyab1/laslesvpn-landing-page)
 
 </p>
 
