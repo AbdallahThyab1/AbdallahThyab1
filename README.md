@@ -119,7 +119,8 @@
   <tr>
     <td align="left">
       <h3>🏬 StoreMaster</h3>
-      <p><em>StoreMaster is a fully functional store management dashboard that allows users to manage products, process sales, and track profits with an intuitive interface.</em></p>
+      <p><em>StoreMaster is a fully functional store management dashboard that allows users to manage products,</em></p>
+      <p><em>process sales, and track profits with an intuitive interface.</em></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
