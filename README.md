@@ -69,7 +69,6 @@
 
 ## 🚀 Featured Projects
 
-<!-- Project 1 - Tawjihi Platform -->
 <table width="90%" align="center">
   <tr>
     <td align="left">
@@ -92,7 +91,7 @@
   </tr>
 </table>
 
-<!-- Project 2 - PLMS Store -->
+
 <table width="90%" align="center">
   <tr>
     <td align="left">
@@ -115,22 +114,23 @@
   </tr>
 </table>
 
-<!-- Project 3 - LaslesVPN -->
+
 <table width="90%" align="center">
   <tr>
     <td align="left">
-      <h3>🔐 LaslesVPN</h3>
-      <p><em>Responsive landing page for VPN service with modern UI design.</em></p>
+      <h3>🏬 StoreMaster</h3>
+      <p><em>StoreMaster is a fully functional store management dashboard that allows users to manage products, process sales, and track profits with an intuitive interface.</em></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
       </p>
       <p>
-        <a href="https://github.com/AbdallahThyab1/laslesvpn-landing-page">
+        <a href="https://github.com/AbdallahThyab1/store-management-system">
           <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
         </a>
-        <a href="https://abdallahthyab1.github.io/laslesvpn-landing-page/">
+        <a href="https://store-master-2026.netlify.app/">
           <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
         </a>
       </p>
