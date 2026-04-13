@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/stars/AbdallahThyab1?style=for-the-badge&color=9333EA&labelColor=0d1117&logo=star" alt="stars"/>
 </p>
 
+
 <!-- ABOUT ME SECTION -->
 ---
 <div align="right">
