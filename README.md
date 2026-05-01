@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Hi%20I'm%20Abdallah%20👋&fontSize=40&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
 
+
 <!-- PROFILE VIEWS + QUICK STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdallahThyab1&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS" alt="views"/>
