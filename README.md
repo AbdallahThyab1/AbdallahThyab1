@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/github/followers/AbdallahThyab1?style=for-the-badge&color=4F46E5&labelColor=0d1117&logo=github" alt="followers"/>
   <img src="https://img.shields.io/github/stars/AbdallahThyab1?style=for-the-badge&color=9333EA&labelColor=0d1117&logo=star" alt="stars"/>
 </p>
-
 <!-- ABOUT ME SECTION -->
 
 ---
