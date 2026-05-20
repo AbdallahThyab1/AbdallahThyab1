@@ -11,7 +11,6 @@
 <!-- ABOUT ME SECTION -->
 ---
 <div align="right">
-
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="23%" alt="profile">
 
 <h2>👨‍💻 About Me</h2>
