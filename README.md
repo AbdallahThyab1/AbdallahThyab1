@@ -1,4 +1,3 @@
-\
 # 👋 Hi, I'm Abdallah Thyab
 
 <p align="center">
