@@ -21,27 +21,30 @@
 <!-- ABOUT ME SECTION -->
 
 <div align="right">
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="23%" alt="profile">
+  <img align="right"
+       src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png"
+       width="23%"
+       alt="profile"/>
 
-<h2>👨‍💻 About Me</h2>
+  <h2>👨‍💻 About Me</h2>
 
-<p align="left">
+  <p align="left">
 
-• 🎓 <strong>Computer Engineering Student</strong> at <b>Arab American University (AAUP)</b>, passionate about <b>Software Engineering</b>, <b>Backend Development</b>, and building real-world applications.<br><br>
+  • 🎓 <strong>Computer Engineering Student</strong> at <b>Arab American University (AAUP)</b>, passionate about <b>Software Engineering</b> and building impactful real-world software.<br><br>
 
-• 💻 <strong>Backend Development:</strong> Building scalable backend applications using <b>Node.js</b>, <b>Express.js</b>, and designing RESTful APIs with a focus on clean architecture and maintainable code.<br><br>
+  • 💻 <strong>Backend Development:</strong> Building scalable backend applications with <b>Node.js</b>, <b>Express.js</b>, and RESTful APIs while following clean architecture and best coding practices.<br><br>
 
-• 🌐 <strong>Frontend Development:</strong> Developing responsive web applications using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>, with an emphasis on clean UI and user experience.<br><br>
+  • 🌐 <strong>Frontend Development:</strong> Creating responsive and user-friendly interfaces using <b>HTML5</b>, <b>CSS3</b>, and modern <b>JavaScript</b>.<br><br>
 
-• 🗄️ <strong>Databases:</strong> Working with <b>MongoDB</b> and <b>MySQL</b>, including database design, normalization, CRUD operations, and efficient query optimization.<br><br>
+  • 🗄️ <strong>Databases:</strong> Working with <b>MongoDB</b> and <b>MySQL</b>, including schema design, CRUD operations, normalization, and query optimization.<br><br>
 
-• 🧠 <strong>Problem Solving:</strong> Continuously strengthening my analytical thinking through <b>Data Structures & Algorithms</b> while writing efficient and maintainable solutions.<br><br>
+  • 🧠 <strong>Core Interests:</strong> Passionate about <b>Data Structures & Algorithms</b>, software architecture, clean code, and solving real-world engineering problems.<br><br>
 
-• 📚 <strong>Currently Learning:</strong> Software Design Principles, Design Patterns, Authentication, System Design, and <b>React Native</b> for cross-platform mobile development.<br><br>
+  • 📚 <strong>Currently Learning:</strong> <b>React Native</b>, Authentication & Authorization, Design Patterns, SOLID Principles, and System Design.<br><br>
 
-• 🚀 <strong>Goal:</strong> To become a software engineer who builds scalable, reliable, and production-ready software that solves real-world problems.
+  • 🚀 <strong>Career Goal:</strong> To become a software engineer who designs scalable, maintainable, and production-ready software that creates real value.
 
-</p>
+  </p>
 
 </div>
 
@@ -93,8 +96,7 @@
   <tr>
     <td align="left">
       <h3>📚 Tawjihi Platform</h3>
-
-  <p><em>A responsive educational platform designed to help Tawjihi students access organized study materials, structured lessons, and an intuitive learning experience.</em></p>
+      <p><em>A responsive educational platform designed to help Tawjihi students access organized study materials, structured lessons, and an intuitive learning experience.</em></p>
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -107,12 +109,10 @@
     <a href="https://github.com/AbdallahThyab1/tawjihi-platform">
       <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
     </a>
-
     <a href="https://abdallahthyab1.github.io/tawjihi-platform/">
       <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
     </a>
   </p>
-
 </td>
   </tr>
 </table>
@@ -120,28 +120,24 @@
 <table width="90%" align="center">
   <tr>
     <td align="left">
+      <h3>🛒 PLMS Store</h3>
+      <p><em>A modern responsive e-commerce website featuring product browsing, intuitive navigation, and a seamless shopping experience across desktop and mobile devices.</em></p>
 
-<h3>🛒 PLMS Store</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
+  </p>
 
-<p><em>A modern responsive e-commerce website featuring product browsing, intuitive navigation, and a seamless shopping experience across desktop and mobile devices.</em></p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
-</p>
-
-<p>
-  <a href="https://github.com/AbdallahThyab1/plms-store">
-    <img src="https://img.shields.io/badge/📁%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
-
-  <a href="https://plms-ps.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
-  </a>
-</p>
-
+  <p>
+    <a href="https://github.com/AbdallahThyab1/plms-store">
+      <img src="https://img.shields.io/badge/📁%20Repository-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+    </a>
+    <a href="https://plms-ps.netlify.app/">
+      <img src="https://img.shields.io/badge/🚀%20Live%20Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
+    </a>
+  </p>
 </td>
   </tr>
 </table>
@@ -149,28 +145,24 @@
 <table width="90%" align="center">
   <tr>
     <td align="left">
+      <h3>🏬 StoreMaster</h3>
+      <p><em>A complete store management dashboard for managing inventory, products, sales, and profit tracking through a clean and responsive interface.</em></p>
 
-<h3>🏬 StoreMaster</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
+  </p>
 
-<p><em>A complete store management dashboard for managing inventory, products, sales, and profit tracking through a clean and responsive interface.</em></p>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive-✓-4F46E5?style=flat"/>
-</p>
-
-<p>
-  <a href="https://github.com/AbdallahThyab1/store-management-system">
-    <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
-
-  <a href="https://store-master-2026.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
-  </a>
-</p>
-
+  <p>
+    <a href="https://github.com/AbdallahThyab1/store-management-system">
+      <img src="https://img.shields.io/badge/📁%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+    </a>
+    <a href="https://store-master-2026.netlify.app/">
+      <img src="https://img.shields.io/badge/🚀%20Live%20Demo-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
+    </a>
+  </p>
 </td>
   </tr>
 </table>
@@ -210,7 +202,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com/Abdullah.Jalal.Dyab.1/">
+  <a href="https://www.facebook.com/AbdallahThyab/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
