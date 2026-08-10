@@ -59,8 +59,7 @@ I'm a **Computer Engineering student** at **Arab American University (AAUP)**, f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdallahThyab1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahThyab1&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+
 
 <img src="https://streak-stats.demolab.com?user=AbdallahThyab1&theme=tokyonight&hide_border=true" width="90%"/>
 
