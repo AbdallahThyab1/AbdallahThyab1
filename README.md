@@ -43,9 +43,9 @@ I'm a **Computer Engineering student** at **Arab American University (AAUP)**, f
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css&perline=5"/>
 
-**Backend & Databases**
+**Backend & Databases & Framework**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,mongodb,mysql,react&perline=4"/>
 
 **Tools & Workflow**
 <br/>
